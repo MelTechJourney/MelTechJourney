@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Mel!
 
-<!--
-**MelTechJourney/MelTechJourney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Career changer passionate about IT  
+🚀 Documenting my journey through homelabs, Windows Server, Active Directory, Linux, Networking and Virtualization.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Virtualization
+- Windows Server
+- Active Directory
+- Networking basics
+- Linux basics
+- IT Support
+
+## 🧪 HomeLab Projects
+
+| Project | Status |
+|---|---|
+| Virtualization Lab | 🚧 In progress |
+| Active Directory Lab | 🚧 In progress |
+| Windows Server Lab | ⏳ Coming soon |
+| Linux Basics | ⏳ Coming soon |
+| Networking Lab | ⏳ Coming soon |
+
+## 🎯 Goal
+
+Become an IT Support Technician and build strong hands-on skills through practical labs, documentation and real-world troubleshooting scenarios.
